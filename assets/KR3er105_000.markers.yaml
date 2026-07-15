@@ -4,17 +4,28 @@ markers:
   front:
   - {type: xml-element, offset: 4, content: '', id: KR3er105_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3er105_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 4, content: '', id: KR3er105_jc_000-d2.p2s1}
+  - {type: substitution, offset: 8, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
+  - {type: substitution, offset: 97, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
+  - {type: substitution, offset: 130, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 186, content: 。, id: KR3er105_jc_000-bkkpn1}
   - {type: xml-element, offset: 186, content: '', id: KR3er105_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3er105_jc_000-d2p2}}
   body:
   - {type: xml-element, offset: 4, content: '', id: KR3er105_jc_000-d3p2, name: p, role: open, attrs: {'xml:id': KR3er105_jc_000-d3p2}}
   - {type: 'tls:seg', offset: 4, content: '', id: KR3er105_jc_000-d3.p2s1}
+  - {type: substitution, offset: 18, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
+  - {type: substitution, offset: 132, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
+  - {type: substitution, offset: 169, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: xml-element, offset: 219, content: '', id: KR3er105_jc_000-d3p2_end, name: p, role: close, attrs: {'xml:id': KR3er105_jc_000-d3p2}}
   - {type: xml-element, offset: 219, content: '', id: KR3er105_jc_000-d3p4, name: p, role: open, attrs: {'xml:id': KR3er105_jc_000-d3p4}}
   - {type: 'tls:seg', offset: 219, content: '', id: KR3er105_jc_000-d3.p4s1}
+  - {type: substitution, offset: 229, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
   - {type: xml-element, offset: 239, content: '', id: KR3er105_jc_000-d3p4_end, name: p, role: close, attrs: {'xml:id': KR3er105_jc_000-d3p4}}
   - {type: xml-element, offset: 241, content: '', id: KR3er105_jc_000-d4p2, name: p, role: open, attrs: {'xml:id': KR3er105_jc_000-d4p2}}
   - {type: 'tls:seg', offset: 241, content: '', id: KR3er105_jc_000-d4.p2s1}
+  - {type: substitution, offset: 272, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
+  - {type: substitution, offset: 333, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16574}}
+  - {type: substitution, offset: 752, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
+  - {type: substitution, offset: 788, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: xml-element, offset: 791, content: '', id: KR3er105_jc_000-d4p2_end, name: p, role: close, attrs: {'xml:id': KR3er105_jc_000-d4p2}}
   back: []
-hash: sha256:ec2415923818825a76f644a0a5af14cb644a99db55e6ca6d89cff84e231e7b20
+hash: sha256:e86a46a5e9d264e4a4dd85576f14b4e92b3228bb2fc1ebfcf6975931eb9f95fe

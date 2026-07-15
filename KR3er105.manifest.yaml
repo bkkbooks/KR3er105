@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er105/v1
 canonical_location: https://kanripo.org/bkk/KR3er105/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫經秘旨
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er105_000.yaml, hash: 'sha256:1f7122aa06f8e9e38e2761a8753c362980730ca03d2cce841f591594602fbf45'}
-  - {seq: 1, filename: KR3er105_001.yaml, hash: 'sha256:fb466ac825113c9b9db267b3b155af334ea4259bfc318ebb1bc93a409e3c4d16'}
-  - {seq: 3, filename: KR3er105_003.yaml, hash: 'sha256:3eb15b4485502f5e624c9970ee013d08d76a46f4e32d9086f84217892b2c6f2d'}
+  - {seq: 0, filename: KR3er105_000.yaml, hash: 'sha256:03454c7419d3a90782683611193878825dc8ee6f392e8685cee680b4f8c0ef70'}
+  - {seq: 1, filename: KR3er105_001.yaml, hash: 'sha256:f997f4fe800246295be793427ad9f596878fa44e08fac452d6cbec78cb033ed3'}
+  - {seq: 3, filename: KR3er105_003.yaml, hash: 'sha256:935de81adb154d059f992e3def615dcdf44defb5f23245e078380f25312662bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er105_000.markers.yaml, hash: 'sha256:ec2415923818825a76f644a0a5af14cb644a99db55e6ca6d89cff84e231e7b20'}
-  - {seq: 1, role: markers, filename: assets/KR3er105_001.markers.yaml, hash: 'sha256:9523f455d2ed0cb2cdeab99f53faf9fabb49dadb3de60561cd52118dc12c277c'}
-  - {seq: 3, role: markers, filename: assets/KR3er105_003.markers.yaml, hash: 'sha256:866cf962e8628cb44f3b81685186c8e01b9a6d8701bc08af1e36912411dad278'}
+  - {seq: 0, role: markers, filename: assets/KR3er105_000.markers.yaml, hash: 'sha256:e86a46a5e9d264e4a4dd85576f14b4e92b3228bb2fc1ebfcf6975931eb9f95fe'}
+  - {seq: 1, role: markers, filename: assets/KR3er105_001.markers.yaml, hash: 'sha256:2b5e3a2de8b10e334cad6a5beba3779ac3c77634244957e84dca82c7223df0a0'}
+  - {seq: 3, role: markers, filename: assets/KR3er105_003.markers.yaml, hash: 'sha256:96a1ffdb4fb3e79565a19253727d6a0387d3bdec75badbb6ce6ebd65bc1957d2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -224,4 +224,7 @@ table_of_contents:
   label: 初痢忌用澀劑
   type: section
   level: 2
-hash: sha256:76a7847bc715a014ca3d0a45d75acfab7fb990f414c681bbbcde2cb29c6e0b7c
+hash: sha256:257c8712708b1c253859e1d8e9c3ee51a27529198c4bfdf65ed3b945ef359503
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
